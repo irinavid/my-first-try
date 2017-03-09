@@ -6,3 +6,6 @@ branch edits
 
 
 this is my 1st commit
+
+
+feature-2 added
